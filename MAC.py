@@ -1,5 +1,4 @@
 from scapy.all import ARP, Ether, srp
-import datetime
 
 #Funcion de buscar en el .txt
 def search_str(mac_24bits):
